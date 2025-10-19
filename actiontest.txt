@@ -1,1 +1,1 @@
-TWITTER_API_KEY="qwertyuiopasdfghjklzx12"
+Archivo sin secretos
